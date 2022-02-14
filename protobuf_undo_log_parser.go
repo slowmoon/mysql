@@ -14,7 +14,7 @@ import (
 )
 
 import (
-	"github.com/slowmoon/mysql/schema"
+	"github.com/opentrx/mysql/schema"
 )
 
 type ProtoBufUndoLogParser struct {

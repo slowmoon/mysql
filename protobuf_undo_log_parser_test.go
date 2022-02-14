@@ -10,7 +10,7 @@ import (
 )
 
 import (
-	"github.com/slowmoon/mysql/schema"
+	"github.com/opentrx/mysql/schema"
 )
 
 func getBranchUndoLog() *branchUndoLog {

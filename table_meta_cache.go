@@ -15,7 +15,7 @@ import (
 )
 
 import (
-	"github.com/slowmoon/mysql/schema"
+	"github.com/opentrx/mysql/schema"
 )
 
 var EXPIRE_TIME = 15 * time.Minute

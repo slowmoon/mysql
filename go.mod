@@ -1,4 +1,4 @@
-module github.com/slowmoon/mysql
+module github.com/opentrx/mysql
 
 go 1.10
 
